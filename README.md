@@ -1,3 +1,4 @@
+This was developed during this [Live Stream](https://www.youtube.com/live/Y8859XCokBs).
 
 # How to use SIMD in Rust
 
